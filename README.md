@@ -1,7 +1,7 @@
 
 Tämä projekti hyödyntää historiallista säädataa ja koneoppimismalleja lumensyvyyden ennustamiseen. Data sisältää lämpötila- ja lumensyvyystietoja useilta vuosikymmeniltä, ja mallia voidaan käyttää arvioimaan tulevaa lumensyvyyttä. 
 
-Data on hankittu avoimista lähteistä ja kattaa Tukholman lämpötila- ja lumensyvyystiedot viimeisen 150 vuoden ajalta.
+Data on hankittu avoimista lähteistä ja kattaa Tukholman lämpötila- ja lumensyvyystiedot viimeisen 120 vuoden ajalta.
 
 
 
